@@ -5,7 +5,7 @@ AsmCalc: Explores Assembly Language Calculations
 Submitted by: Evan Balson
 ### Time spent: 7 days
 
-<img src='https://github.com/Evan-Balson/AsmCalc-Exploring-Assembly-Language-Calculations/blob/main/Assembly%20Language%20cover.mp4' title='Program Preview' width='' alt='program-preview' />
+<img src='https://github.com/Evan-Balson/AsmCalc-Exploring-Assembly-Language-Calculations/blob/main/Assembly%20repository%20cover.png' title='Program Preview' width='' alt='program-preview' />
 
 ## Description:
 AsmCalc: Explores Assembly Language Calculations, showcasing the power of Assembly Language in computing. Explore fundamental arithmetic, subroutines, and control flow with sample .asm code:
