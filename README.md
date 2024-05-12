@@ -11,11 +11,23 @@ Submitted by: Evan Balson
 AsmCalc: Explores Assembly Language Calculations, showcasing the power of Assembly Language in computing. Explore fundamental arithmetic, subroutines, and control flow with sample .asm code:
 
 * [X] Solution to simple Hello world
-* [x] Solution to Question 1
-* [x] Solution to Question 2
-* [x] Solution to Question 3
-* [x] Solution to Question 4
-* [x] Solution to Question 5
+
+* [x] Solution to Question 1: Create a directory called the computer-system folder for coursework1,
+then create a file called question01.asm. in that file write an
+Introductory message to introduce yourself to your chosen mini-group
+and include a statement that will declare a constant value equal to 200
+
+* [x] Solution to Question 2: Write a program that will label three groups, 'SIMTech', 'Smartstart', and 'ProTech', for students whose current age is an odd number,
+an even number, and a prime number respectively
+
+* [x] Solution to Question 3: Write a program that will add 32 students to the web design teaching group.
+
+* [x] Solution to Question 4: Write a program to sum the total number of students in all thecomputing undergraduate programs.
+
+* [x] Solution to Question 5: If the threshold for the existing mini-groups is reached. How many more groups will be created from the 42 students who joined before the deadline?
+
+## Solution for Other Operations:
+
 * [X] Solution to Arithmetic
 * [X] Solution to Addition
 * [X] Solution to Subtraction
